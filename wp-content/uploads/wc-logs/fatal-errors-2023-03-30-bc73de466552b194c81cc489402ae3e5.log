@@ -1,0 +1,8 @@
+2023-03-30T16:06:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-woo-commerce\wp-includes\Requests\Transport\cURL.php on line 484
+
+2023-03-30T16:12:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-woo-commerce\wp-includes\Requests\Transport\cURL.php on line 484
+
+2023-03-30T16:14:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-woo-commerce\wp-includes\Requests\Transport\cURL.php on line 484
+
+2023-03-30T16:16:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-woo-commerce\wp-includes\Requests\Transport\cURL.php on line 484
+
